@@ -1,9 +1,6 @@
 # Ignore compiled Python files
 *.pyc
 
-# Ignore Django migration files
-*/migrations/*
-
 # Ignore secret keys
 *.secret_key
 
